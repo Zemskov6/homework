@@ -1,0 +1,15 @@
+/Users/zemskov/Desktop/Sem2/Zadanie1/bin/Debug/net8.0/Zadanie1
+/Users/zemskov/Desktop/Sem2/Zadanie1/bin/Debug/net8.0/Zadanie1.deps.json
+/Users/zemskov/Desktop/Sem2/Zadanie1/bin/Debug/net8.0/Zadanie1.runtimeconfig.json
+/Users/zemskov/Desktop/Sem2/Zadanie1/bin/Debug/net8.0/Zadanie1.dll
+/Users/zemskov/Desktop/Sem2/Zadanie1/bin/Debug/net8.0/Zadanie1.pdb
+/Users/zemskov/Desktop/Sem2/Zadanie1/obj/Debug/net8.0/Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zemskov/Desktop/Sem2/Zadanie1/obj/Debug/net8.0/Zadanie1.AssemblyInfoInputs.cache
+/Users/zemskov/Desktop/Sem2/Zadanie1/obj/Debug/net8.0/Zadanie1.AssemblyInfo.cs
+/Users/zemskov/Desktop/Sem2/Zadanie1/obj/Debug/net8.0/Zadanie1.csproj.CoreCompileInputs.cache
+/Users/zemskov/Desktop/Sem2/Zadanie1/obj/Debug/net8.0/Zadanie1.sourcelink.json
+/Users/zemskov/Desktop/Sem2/Zadanie1/obj/Debug/net8.0/Zadanie1.dll
+/Users/zemskov/Desktop/Sem2/Zadanie1/obj/Debug/net8.0/refint/Zadanie1.dll
+/Users/zemskov/Desktop/Sem2/Zadanie1/obj/Debug/net8.0/Zadanie1.pdb
+/Users/zemskov/Desktop/Sem2/Zadanie1/obj/Debug/net8.0/Zadanie1.genruntimeconfig.cache
+/Users/zemskov/Desktop/Sem2/Zadanie1/obj/Debug/net8.0/ref/Zadanie1.dll
